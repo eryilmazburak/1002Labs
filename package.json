@@ -1,0 +1,11 @@
+{
+  "name": "use-this-as-a-room-builder-click-interaction",
+  "version": "1.0.0",
+  "description": "Scene exported with Spline",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
